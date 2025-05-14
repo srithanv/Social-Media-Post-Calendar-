@@ -2,11 +2,11 @@
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
-*NAME* : VADLA SIDDHARTHA CHARY
+*NAME* : Vangapelly Srithan
 
-*INTERN ID* : CT12WUWQ
+*INTERN ID* : CT12WSCS
 
-*DOMAIN* : Data Analytics
+*DOMAIN* : Digital Marketing
 
 *DURATION* : 12 weeks
 
